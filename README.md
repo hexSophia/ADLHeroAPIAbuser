@@ -28,8 +28,8 @@ This repository is for educational purposes only. Unauthorized use of this scrip
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/adlhero-api-abuse-poc.git
-   cd adlhero-api-abuse-poc
+   git clone https://github.com/hexSophia/ADLHeroAPIAbuser.git
+   cd ADLHeroAPIAbuser
    ```
 
 2. Install the dependencies:
@@ -41,7 +41,7 @@ This repository is for educational purposes only. Unauthorized use of this scrip
 
 4. Run the script:
    ```bash
-   python adlhero_api_abuse.py
+   python ADLHeroAPIAbuser.py
    ```
 
 5. Enter the number of threads to spawn and monitor the results in the terminal UI.
